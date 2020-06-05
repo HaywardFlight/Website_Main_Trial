@@ -61,6 +61,8 @@ body {
   text-align: left;
   background-color: #fff; }
 
+.progress { margin-left: auto; margin-right:auto; }
+
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
