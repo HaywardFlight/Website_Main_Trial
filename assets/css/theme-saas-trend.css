@@ -342,7 +342,7 @@ h6, .h6 {
   line-height: 1.2; }
 
 .display-3 {
-  font-size: 4.5rem;
+  font-size: 3.9rem;
   font-weight: 600;
   line-height: 1.2; }
 
@@ -4791,7 +4791,7 @@ a.close.disabled {
   vertical-align: text-top !important; }
 
 .bg-primary {
-  background-color: #FF623F !important; }
+  background-color: #002354 !important; }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
@@ -4863,7 +4863,7 @@ button.bg-primary-2:focus {
   background-color: #15343a !important; }
 
 .bg-primary-3 {
-  background-color: #171219 !important; }
+  background-color: #002354 !important; }
 
 a.bg-primary-3:hover, a.bg-primary-3:focus,
 button.bg-primary-3:hover,
@@ -7862,7 +7862,7 @@ img.bg-image {
 
 .btn-white {
   background: #fff;
-  color: #FF623F; }
+  color: #002354; }
   .btn-white > .icon path {
     fill: #FF623F; }
   .btn-white:hover {

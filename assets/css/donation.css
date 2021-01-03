@@ -1750,8 +1750,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #48BF84;
-  border-color: #48BF84; }
+  background-color: #225560;
+  border-color: #225560; }
   .btn-primary:hover {
     color: #fff;
     background-color: #3aa771;
@@ -3633,7 +3633,7 @@ input[type="button"].btn-block {
 
 .badge-primary {
   color: #fff;
-  background-color: #20c997; }
+  background-color: #225560; }
   a.badge-primary:hover, a.badge-primary:focus {
     color: #fff;
     background-color: #20c997; }
@@ -4863,7 +4863,7 @@ button.bg-primary-2:focus {
   background-color: #08292c !important; }
 
 .bg-primary-3 {
-  background-color: #0D2129 !important; }
+  background-color: #002354 !important; }
 
 a.bg-primary-3:hover, a.bg-primary-3:focus,
 button.bg-primary-3:hover,
